@@ -85,7 +85,7 @@ Now everything is ready to run the scripts. To do this, open a command line wind
 
 1. Call *rename_all_womo_tracks.bat*  with one parameter
 
-   AUFRUF: `rename_womo_tracks.bat directory`
+   USAGE: `rename_womo_tracks.bat directory`
 
    | parameter | description |
    |-|-|
@@ -145,7 +145,7 @@ Now everything is ready to run the scripts. To do this, open a command line wind
 
 2. Call *join_womo_tracks.bat* with two parameters
 
-   AUFRUF: `join_womo_tracks.bat  directory joinedgpxfile`
+   USAGE: `join_womo_tracks.bat  directory joinedgpxfile`
 
    | parameter | description |
    |-|-|
@@ -184,7 +184,7 @@ Now everything is ready to run the scripts. To do this, open a command line wind
 
 3. Call *merge_womo_tracks.bat* with two parameters
 
-   AUFRUF: `merge_womo_tracks.bat  joinedgpxfile mergedgpxfile`
+   USAGE: `merge_womo_tracks.bat  joinedgpxfile mergedgpxfile`
 
    | parameter | description |
    |-|-|
@@ -210,7 +210,7 @@ Now everything is ready to run the scripts. To do this, open a command line wind
 
 4. Call *export_womo_tracks.bat* with one parameter
 
-   AUFRUF: `export_womo_tracks.bat  mergedgpxfile`
+   USAGE: `export_womo_tracks.bat  mergedgpxfile`
 
    | parameter | description |
    |-|-|

@@ -103,7 +103,7 @@ wechsele in das Verzeichnis mit den Skripten.
 
 1. Rufe *rename_all_womo_tracks.bat*  mit einem Parameter auf
 
-   USAGE: `rename_womo_tracks.bat directory`
+   AUFRUF: `rename_womo_tracks.bat directory`
 
    | Parameter | Beschreibung |
    |-|-|
@@ -163,7 +163,7 @@ wechsele in das Verzeichnis mit den Skripten.
 
 2. Rufe *join_womo_tracks.bat* mit zwei Parametern auf
 
-   USAGE: `join_womo_tracks.bat  directory joinedgpxfile`
+   AUFRUF: `join_womo_tracks.bat  directory joinedgpxfile`
 
    | Parameter | Beschreibung |
    |-|-|
@@ -202,7 +202,7 @@ wechsele in das Verzeichnis mit den Skripten.
 
 3. Rufe *merge_womo_tracks.bat* mit zwei Parametern auf
 
-   USAGE: `merge_womo_tracks.bat  joinedgpxfile mergedgpxfile`
+   AUFRUF: `merge_womo_tracks.bat  joinedgpxfile mergedgpxfile`
 
    | Parameter | Beschreibung |
    |-|-|
@@ -228,7 +228,7 @@ wechsele in das Verzeichnis mit den Skripten.
 
 4. Rufe *export_womo_tracks.bat* mit einem Parameter auf
 
-   USAGE: `export_womo_tracks.bat  mergedgpxfile`
+   AUFRUF: `export_womo_tracks.bat  mergedgpxfile`
 
    | Parameter | Beschreibung |
    |-|-|
